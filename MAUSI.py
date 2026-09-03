@@ -21,4 +21,4 @@ def main():
             print(joke)
 
 if __name__ == "__main__":
-    main()
+    main() #dd
